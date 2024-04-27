@@ -1,0 +1,1 @@
+# Podemos capturar todas as exceções usando apenas um bloco 'except Exception' que permite lidar de forma genérica com qualquer tipo de exceção que possa ocorrer durante a execução de um bloco 'try', já que a classe 'Exception' é a classe base para todas as exceções em Python.

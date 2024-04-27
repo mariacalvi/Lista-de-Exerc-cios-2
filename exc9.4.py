@@ -1,0 +1,1 @@
+# Um bloco try/except permite que o programa tente executar um trecho de código e, se uma exceção ocorrer, o programa poderá tratá-la de forma apropriada, sem interromper a execução do programa.O bloco try/except é composto por duas partes principais: o bloco try, que contém o código a ser executado, e o bloco except, que contém o tratamento de possíveis exceções.

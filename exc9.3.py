@@ -1,0 +1,1 @@
+# Uma exceção comum em python é a ValueError

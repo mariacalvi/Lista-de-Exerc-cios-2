@@ -1,0 +1,1 @@
+# Tratar exceções em Python significa lidar com essas situações de erro de maneira apropriada, evitando que o programa pare de funcionar inesperadamente. Um tratamento adequado de exceções pode ajudar a manter o programa em execução, mesmo com erros erros ao decorrer do programa, permitindo que o usuário possa entender o que aconteceu para correção do problema.

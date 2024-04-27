@@ -1,0 +1,1 @@
+# Para lidar com exceções assíncronas em um programa Python que utiliza funções assíncronas e programação assíncrona em geral, podemos utilizar o bloco try/except juntamente com await para capturar e tratar as exceções adequadamente.
